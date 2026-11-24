@@ -16,7 +16,7 @@ dir_paths=[
     "api/",
     "evaluation/",
     "frontend/",
-    "knowledge",
+    "knowledge/",
     "infrastructure/",
     "tests/",
     "scripts/",
